@@ -1,3 +1,6 @@
+#This code is is simply a demo code to test the OpenCV python package.
+#I used this code to test the webcam in order to implement it into the face detection model.
+
 import cv2
 
 # Open the webcam (0 is usually the default camera)
